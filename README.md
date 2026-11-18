@@ -14,3 +14,7 @@ npm start
 - `npm run dev` — запуск с автоперезагрузкой
 - `python tools/check.py` — проверка соединения
 more trash
+## strucrtura 
+
+- `src/` 
+- `tools/`
