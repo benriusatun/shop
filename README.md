@@ -13,3 +13,4 @@ npm start
 - `npm start` — запуск сервера
 - `npm run dev` — запуск с автоперезагрузкой
 - `python tools/check.py` — проверка соединения
+more trash
