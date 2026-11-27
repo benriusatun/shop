@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # Shop API
+>>>>>>> origin/main
 
 Создание сайта
 
