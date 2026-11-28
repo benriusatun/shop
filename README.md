@@ -21,3 +21,4 @@ more trash
 - `src/` 
 - `tools/`
 test
+- GET /products - возвращает список товаров
